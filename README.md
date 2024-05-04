@@ -62,3 +62,5 @@ Power BI - for data cleaning and visualization
 ## Skills Learnt :
 
 ETL, Defining Key Metrics and KPI, Exploratory Data Analysis, DAX, Data Analysis, Power Query, Finding Insights, Storytelling through Data, Data Visualization
+
+Dashboard created (pdf) - 
