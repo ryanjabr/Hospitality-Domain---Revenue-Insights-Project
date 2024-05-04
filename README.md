@@ -63,4 +63,4 @@ Power BI - for data cleaning and visualization
 
 ETL, Defining Key Metrics and KPI, Exploratory Data Analysis, DAX, Data Analysis, Power Query, Finding Insights, Storytelling through Data, Data Visualization
 
-Dashboard created (pdf) - 
+Dashboard created (pdf) - [https://github.com/ryanjabr/Hospitality-Domain---Revenue-Insights-Project/blob/main/Hospitality%20Domain%20Project.pdf]
