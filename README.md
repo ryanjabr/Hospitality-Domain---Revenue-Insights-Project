@@ -37,6 +37,13 @@ Power BI - for data cleaning and visualization
   
 - Finally created dashboard using appropriate visualization.
 
+## Dashboard 
+
+![Hospitality Domain Project (1)-1](https://github.com/ryanjabr/Hospitality-Domain---Revenue-Insights-Project/assets/168835863/6994e0b9-c967-4efc-a67e-db8e20823260)
+
+![Hospitality Domain Project (2)-1](https://github.com/ryanjabr/Hospitality-Domain---Revenue-Insights-Project/assets/168835863/aabfad32-b775-44eb-aac1-1681214359ac)
+
+
 ## Some Important insights from the Dashboard :
 
 - Mumbai generates the highest revenue (661 M) followed by Bangalore, Hyderabad and Delhi
